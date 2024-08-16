@@ -1,43 +1,48 @@
-Hi, I'm Navin Kumar! 👋
+![logo](https://github.com/Guda-mahendar/Guda-mahendar/blob/main/Associate_Linkedin%402x.jpg)
 
-Welcome to my GitHub profile! I'm Navin Kumar, a skilled Cloud & DevOps Engineer with expertise in Google Cloud Platform services and a variety of DevOps tools. I have successfully completed over 30 hands-on labs, demonstrating my ability to implement and manage cloud infrastructure and CI/CD pipelines efficiently. My strong foundation in both cloud technologies and DevOps practices allows me to design, deploy, and maintain scalable and secure cloud environments.
+# Hi, I'm Navin Kumar! 👋
 
-📞 Contact: +91-9523897909 | ✉️ Email: navinkumarbanu@gmail.com
+Welcome to my GitHub profile! I'm Navin Kumar,  I'm Google Certified Associate Cloud Engineer. Explore my projects and connect with me to explore the vast realm of cloud computing and DevOps together! 
 
-Education
+📞 **Contact:** +91-9523897909 | ✉️ **Email:** navinkumarbanu@gmail.com
 
-Bachelor of Technology
+## Education
 
-Shri Mata Vaishno Devi University
+- **Bachelor of Technology**  
+ Shri Mata Vaishno Devi University
 
-Katra, Jammu & Kashmir
+## Skills
 
-Skills
-Google Cloud Platform: IAM, Compute Engine, App Engine, GKE, Cloud Run, Pub/Sub, Cloud Monitoring, and Logging
+- **Google Cloud Platform:** IAM, Compute Engine, App Engine, GKE, Cloud Run, Pub/Sub, Cloud Monitoring, and Logging
+- **Amazon Web Services:** EC2, S3, S3 Glacier, Cloud Shell 
 
-Infrastructure as Code: Terraform
+**Programming languages:** Python, Java, C Programming
 
-Containerization : Docker
+- **DevOPs:**
+- **Infrastructure as Code:** Terraform
+- **Containerization:** Docker
+- **Container Orchestration:** Kubernetes
+- **Configuration Management:** Ansible
+- **Integration Tool:** Jenkins
+- **Version Control:** Git, GitHub
+- **Operating System:** Linux
 
-Container Orchestration Tool:Kubernetes
+## Certifications
 
-Configuration Management Tool: Ansible
+- **Google Cloud Associate Cloud**
+  
+## Projects
 
-Integration Tool:Jenkins
+### Weather App
+- Developed using Python, Cloud Build, Docker, and Weather API.
+- Deployed on Google Cloud Run.
 
-Version Control: Git, GitHub
+### Static Website Hosting
+- Create a Google Cloud Storage Bucket.
+- Upload Your Website Files
+- Configure the Bucket for Static Website Hosting
+- Access Your Website
 
-Certification
-Google Cloud Associate Cloud
-
-Projects
-
-Weather App
-
-Developed using Python, Cloud Build, Docker, and Weather API.
-Deployed on Google Cloud Run.
-
-Ultimate CI/CD Pipeline
-
-Jenkins, Maven, SonarQube, Argo CD, Helm, Kubernetes, Java.
-Automated CI/CD processes.
+### Ultimate CI/CD Pipeline
+- Jenkins, Maven, SonarQube, Argo CD, Helm, Kubernetes, Java.
+- Automated CI/CD processes.
