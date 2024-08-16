@@ -5,27 +5,39 @@ Welcome to my GitHub profile! I'm Navin Kumar, a skilled Cloud & DevOps Engineer
 📞 Contact: +91-9523897909 | ✉️ Email: navinkumarbanu@gmail.com
 
 Education
+
 Bachelor of Technology
+
 Shri Mata Vaishno Devi University
+
 Katra, Jammu & Kashmir
 
 Skills
 Google Cloud Platform: IAM, Compute Engine, App Engine, GKE, Cloud Run, Pub/Sub, Cloud Monitoring, and Logging
+
 Infrastructure as Code: Terraform
+
 Containerization : Docker
+
 Container Orchestration Tool:Kubernetes
+
 Configuration Management Tool: Ansible
+
 Integration Tool:Jenkins
+
 Version Control: Git, GitHub
 
-Certifications
+Certification
 Google Cloud Associate Cloud
 
 Projects
+
 Weather App
+
 Developed using Python, Cloud Build, Docker, and Weather API.
 Deployed on Google Cloud Run.
 
 Ultimate CI/CD Pipeline
+
 Jenkins, Maven, SonarQube, Argo CD, Helm, Kubernetes, Java.
 Automated CI/CD processes.
