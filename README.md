@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm Navin Kumar,  I'm Google Certified Associate C
 
 ## Certifications
 
-- **Google Cloud Associate Cloud**
+- **Google Cloud Associate Engineer**
   
 ## Projects
 
